@@ -15,4 +15,4 @@ git clone htrps://NonaDev41/OPEN-SOURCE-TOOLS
 
 cd OPEN-SOURCE-TOOLS
 
-python Free.py
+python brute.py
