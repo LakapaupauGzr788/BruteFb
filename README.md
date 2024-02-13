@@ -1,7 +1,7 @@
-# OPEN-SOURCE-TOOLS
-Open Source Tools Clone 
+# DON KALI DON LADONO ASU #
+Samakku Melo Salto 
 
-# Install Module #
+# Install Module Ko Dulu Telasoo #
 
 $ pkg update && upgrade
 
@@ -11,8 +11,11 @@ $ pkg install python -y
 
 $ pip install rich bs4 requests
 
-git clone htrps://NonaDev41/OPEN-SOURCE-TOOLS
+git clone https://github.com/LakapaupauGzr788/BruteFb
 
-cd OPEN-SOURCE-TOOLS
+cd BruteFb
+
+git pull
 
 python brute.py
+
